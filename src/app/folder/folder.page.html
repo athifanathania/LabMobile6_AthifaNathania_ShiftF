@@ -1,0 +1,45 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>{{ folder }}</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">{{ folder }}</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <div id="container">
+    <strong class="capitalize">{{ folder }}</strong>
+    <p>Jelajahi <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">Komponen
+        UI</a></p>
+
+    <div id="card">
+      <ion-card>
+        <ion-card-header>
+          <ion-card-title>Tentang Saya</ion-card-title>
+          <ion-card-subtitle>Informasi Mahasiswa</ion-card-subtitle>
+        </ion-card-header>
+
+        <ion-card-content>
+          <ion-list>
+            <ion-item>
+              <strong>Nama: </strong> Athifa Nathania
+            </ion-item>
+            <ion-item>
+              <strong>NIM: </strong> H1D022031
+            </ion-item>
+            <ion-item>
+              Saya adalah mahasiswa Informatika Praktikum Mobile Shift F!
+            </ion-item>
+          </ion-list>
+        </ion-card-content>
+      </ion-card>
+    </div>
+  </div>
+</ion-content>
