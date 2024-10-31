@@ -3,6 +3,7 @@
 **Shift Baru** : F
 **Shift Lama** : D
 
+
 # Proyek Contoh Ionic
 
 ## Menambahkan Komponen di Halaman Ionic
