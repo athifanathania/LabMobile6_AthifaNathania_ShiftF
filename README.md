@@ -1,7 +1,7 @@
-## Nama       : Athifa Nathania  
-## NIM        : H1D022031  
-## Shift Baru : F
-## Shift Lama : D
+**Nama**       : Athifa Nathania  
+**NIM**        : H1D022031  
+**Shift Baru** : F
+**Shift Lama** : D
 
 # Proyek Contoh Ionic
 
@@ -11,14 +11,14 @@ Ini adalah contoh proyek menggunakan Ionic Framework yang menunjukkan cara menam
 ### Langkah-langkah untuk Menambahkan Komponen
 
 1. **Buat Proyek Ionic Baru (Jika Belum Ada)**:
-   Jika Anda belum memiliki proyek Ionic, buatlah proyek baru dengan menggunakan perintah berikut:
+   Jika belum memiliki proyek Ionic, buatlah proyek baru dengan menggunakan perintah berikut:
    ```bash
    ionic start cobaApp
    ```
    kemudian pilih sidemenu dan angular
 
 2. **Buka Halaman yang Ingin Diedit**:
-   Akses folder proyek Anda dan buka file halaman yang ingin Anda edit. Disini saya ingin menambahkan komponen di halaman `folder`, buka `folder.page.html` dan `folder.page.scss`.
+   Akses folder proyek dan buka file halaman yang ingin di edit. Disini saya ingin menambahkan komponen di halaman `folder`, buka `folder.page.html` dan `folder.page.scss`.
 
 3. **Menambahkan Komponen Ionic**:
    - Gunakan komponen yang tersedia dalam Ionic. Dalam contoh ini, saya akan menambahkan `ion-card` dan `ion-item`.
@@ -64,7 +64,7 @@ Ini adalah contoh proyek menggunakan Ionic Framework yang menunjukkan cara menam
    ```
 
 5. **Simpan Perubahan**:
-   Setelah menambahkan komponen dan gaya, simpan perubahan Anda.
+   Setelah menambahkan komponen dan gaya, simpan perubahan.
 
 6. **Jalankan Aplikasi**:
    Gunakan perintah berikut untuk menjalankan aplikasi dan melihat hasilnya di browser:
